@@ -1,8 +1,8 @@
 {
   "name": "node-swr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Serverside caching using stale-while-revalidate and async data fetching",
-  "author": "Eric van Riet Paap",
+  "author": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -13,7 +13,6 @@
     "url": "git+https://github.com/ericvrp/node-swr.git"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ericvrp/node-swr/issues"
