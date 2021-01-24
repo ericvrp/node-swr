@@ -1,2 +1,2 @@
 # node-swr
-Serverside caching using stable-while-revalidate and async data fetching
+Serverside caching using stale-while-revalidate and async data fetching
