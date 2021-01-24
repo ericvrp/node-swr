@@ -1,6 +1,6 @@
 {
   "name": "node-swr",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Serverside caching using stale-while-revalidate and async data fetching",
   "author": "",
   "main": "index.js",
